@@ -1,3 +1,3 @@
 # Welcome to index.md file
 
-[About us]{about.md}
+[About us](about.md)
